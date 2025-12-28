@@ -22,7 +22,7 @@
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
     "dotenv": "^9.0.2",
-    "express": "~4.16.1",
+    "express": "~4.22.1",
     "express-validator": "^6.11.1",
     "greenlock": "^4.0.4",
     "http-errors": "^1.8.0",
